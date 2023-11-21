@@ -1,11 +1,6 @@
 # Socket-JSON-Enabled
 To be abled to send/receive JSON data over Socket. 
 
-# Install
-```
-npm install --save https://github.com/magdsnail/socket-json-enabled.git
-```
-
 # Usage
 
 Server
