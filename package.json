@@ -1,0 +1,15 @@
+{
+  "name": "socket-json-enabled",
+  "version": "1.0.1",
+  "description": "send/receive JSON data over tcp socket.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/send-recv.js"
+  },
+  "keywords": [
+    "json",
+    "socket"
+  ],
+  "author": "magdsnail",
+  "license": "ISC"
+}
